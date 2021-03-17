@@ -11,7 +11,6 @@ namespace Task_9
             Console.InputEncoding = System.Text.Encoding.Unicode;
             ///змінюємо з браузера
             ///змінюємо з IDE
-            /// вирішуємо конфлікт
 
             int m;
             int n;
