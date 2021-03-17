@@ -20,6 +20,8 @@ namespace Task_9
             MyProgram.Arr_rand(ref mas);
             MyProgram.Arr_print(mas);
 
+            ///тестуємо
+            
             int key;
             key = MyProgram.GetData_keyb("значення 'ключа' для пошуку", "numb");
 
